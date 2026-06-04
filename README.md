@@ -46,7 +46,7 @@ Contains information about available doctors across hospital departments.
 
 ### Dashboard Overview
 
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ### Data Model
 
