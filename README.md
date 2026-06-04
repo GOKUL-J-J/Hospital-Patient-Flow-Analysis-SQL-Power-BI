@@ -55,7 +55,7 @@ Contains information about available doctors across hospital departments.
 ### DAX Measures
 
 [DAX Measures]
-        avg_length_of_stay.png
+        (avg_length_of_stay.png)
         bed_occupancy_rate.png
         doctor_utilization.png
         patient_count.png
