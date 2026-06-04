@@ -1,76 +1,79 @@
-# Hospital Patient Flow Analysis Dashboard
+# Hospital Patient Flow Dashboard
 
-## 🏥 Project Overview
+## Project Overview
 
-Developed a Hospital Patient Flow Analysis Dashboard using SQL and Power BI to analyze patient admissions, bed occupancy, departmental workload, and resource utilization. The project provides actionable insights to improve operational efficiency and support data-driven decision-making in healthcare management.
+The Hospital Patient Flow Dashboard is a Power BI project designed to analyze hospital operations and resource utilization. The dashboard combines multiple datasets to provide insights into patient admissions, bed occupancy, doctor availability, and department workload. The goal is to support data-driven decision-making and improve operational efficiency in healthcare management.
 
-## 🎯 Objective
-
-To monitor patient flow and hospital resource utilization through interactive dashboards and KPI tracking.
-
-## 🛠️ Tools & Technologies
+## Tools Used
 
 * SQL
 * Power BI
 * DAX
 
-## 📊 Key Features
+## Datasets Used
 
-* Patient Admission Analysis
+The dashboard was developed using the following datasets:
+
+### Patient Records
+
+Contains patient admission details, discharge information, department allocation, and length of stay.
+
+### Bed Capacity
+
+Contains department-wise bed capacity and occupancy information.
+
+### Doctor Availability
+
+Contains information about available doctors across hospital departments.
+
+## Project Workflow
+
+1. Imported data from multiple datasets.
+2. Cleaned and transformed the data.
+3. Created relationships between tables.
+4. Built DAX measures for KPI calculations.
+5. Developed interactive visualizations and dashboards in Power BI.
+
+## Dashboard Features
+
+* Average Length of Stay Analysis
+* Admission Distribution Analysis
 * Bed Occupancy Monitoring
-* Department-wise Workload Analysis
-* Resource Utilization Tracking
-* Interactive KPI Dashboard
-* Dynamic Filtering and Drill-Down Analysis
+* Patient vs Doctor Capacity Analysis
+* Department Workload Analysis
 
-## 🔍 SQL Operations
+## Dashboard Screenshots
 
-* Data Extraction
-* Data Cleaning and Transformation
-* Aggregation and Grouping
-* KPI Calculation
-* Trend Analysis
+### Dashboard Overview
 
-## 📈 Power BI Visualizations
+![Dashboard Overview](dashboard_overview.png)
 
-* KPI Cards
-* Bar Charts
-* Line Charts
-* Donut Charts
-* Interactive Slicers
-* Department Performance Dashboard
+### Data Model
 
-## 🚀 Business Insights
+![Data Model](data_model.png)
 
-* Identified patient admission trends.
-* Monitored bed occupancy rates.
-* Evaluated department-wise workload distribution.
+### DAX Measures
+
+![DAX Measures](dax_measures.png)
+
+## Key Insights
+
+* Identified departments with high patient volume.
+* Monitored bed occupancy trends across departments.
+* Evaluated doctor availability and workload distribution.
 * Improved visibility into hospital resource utilization.
-* Supported operational decision-making with real-time insights.
+* Supported healthcare planning through data visualization.
 
-## 📂 Project Structure
+## Files Included
 
-Hospital-Patient-Flow-Analysis/
-│
-├── Hospital_Patient_Flow_Dashboard.pbix
-├── SQL_Queries.sql
-└── README.md
+* Hospital_Patient_Flow_Dashboard.pbix
+* README.md
+* dashboard_overview.png
+* data_model.png
+* dax_measures.png
 
-## 🎓 Skills Demonstrated
-
-* SQL Querying
-* Data Cleaning
-* Data Transformation
-* Data Analysis
-* Power BI Dashboard Development
-* DAX Measures
-* Data Visualization
-* Healthcare Analytics
-
-## 👨‍💻 Author
+## Author
 
 Gokul J
 
-Aspiring Data Analyst
-
-SQL | Power BI | Python | Pandas | NumPy | Matplotlib
+Aspiring Data Analyst skilled in SQL, Power BI, Python, Pandas, NumPy, and Matplotlib. Passionate about transforming data into meaningful insights and supporting data-driven decision-making.
