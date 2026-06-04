@@ -1,115 +1,76 @@
+# Hospital Patient Flow Analysis Dashboard
 
-# 🏥 Hospital Patient Flow Dashboard
+## 🏥 Project Overview
 
-## 📌 Overview
+Developed a Hospital Patient Flow Analysis Dashboard using SQL and Power BI to analyze patient admissions, bed occupancy, departmental workload, and resource utilization. The project provides actionable insights to improve operational efficiency and support data-driven decision-making in healthcare management.
 
-The Hospital Patient Flow Dashboard is an interactive Power BI project designed to analyze patient admissions, discharges, bed occupancy, and department workload. The dashboard helps healthcare organizations monitor operational efficiency and make data-driven decisions.
+## 🎯 Objective
 
----
+To monitor patient flow and hospital resource utilization through interactive dashboards and KPI tracking.
 
-## 🎯 Objectives
+## 🛠️ Tools & Technologies
 
-- Track patient admissions and discharges.
-- Monitor hospital bed occupancy.
-- Analyze department-wise patient distribution.
-- Identify patient flow trends.
-- Improve hospital resource utilization.
+* SQL
+* Power BI
+* DAX
 
----
+## 📊 Key Features
 
-## 🛠️ Tool Used
+* Patient Admission Analysis
+* Bed Occupancy Monitoring
+* Department-wise Workload Analysis
+* Resource Utilization Tracking
+* Interactive KPI Dashboard
+* Dynamic Filtering and Drill-Down Analysis
 
-- Microsoft Power BI
+## 🔍 SQL Operations
 
----
+* Data Extraction
+* Data Cleaning and Transformation
+* Aggregation and Grouping
+* KPI Calculation
+* Trend Analysis
 
-## 📊 Dashboard Features
+## 📈 Power BI Visualizations
 
-### Patient Overview
-- Total Patients
-- Admissions
-- Discharges
-- Active Patients
+* KPI Cards
+* Bar Charts
+* Line Charts
+* Donut Charts
+* Interactive Slicers
+* Department Performance Dashboard
 
-### Bed Occupancy Analysis
-- Occupied Beds
-- Available Beds
-- Occupancy Rate
+## 🚀 Business Insights
 
-### Department Analysis
-- Department-wise Patient Count
-- Department Workload Distribution
-
-### Trend Analysis
-- Patient Admission Trends
-- Patient Discharge Trends
-- Monthly Performance Analysis
-
----
-
-## 📈 Key Insights
-
-- Identified departments with the highest patient volume.
-- Monitored bed utilization across the hospital.
-- Analyzed patient flow patterns to improve operational efficiency.
-- Provided visual insights for better healthcare management.
-
----
+* Identified patient admission trends.
+* Monitored bed occupancy rates.
+* Evaluated department-wise workload distribution.
+* Improved visibility into hospital resource utilization.
+* Supported operational decision-making with real-time insights.
 
 ## 📂 Project Structure
 
-```text
-Hospital-Patient-Flow-Dashboard/
+Hospital-Patient-Flow-Analysis/
 │
 ├── Hospital_Patient_Flow_Dashboard.pbix
+├── SQL_Queries.sql
 └── README.md
-```
 
----
+## 🎓 Skills Demonstrated
 
-## 🚀 Skills Demonstrated
-
-- Data Visualization
-- Dashboard Design
-- KPI Development
-- Healthcare Analytics
-- Business Intelligence
-- Interactive Reporting
-
----
-
-## 📷 Dashboard Preview
-
-Add screenshots of your dashboard here.
-
-```md
-![Dashboard Screenshot](dashboard.png)
-```
-
----
-
-## 🎓 Learning Outcomes
-
-- Creating interactive Power BI dashboards.
-- Designing healthcare KPIs.
-- Visualizing patient flow and resource utilization.
-- Generating actionable business insights.
-
----
+* SQL Querying
+* Data Cleaning
+* Data Transformation
+* Data Analysis
+* Power BI Dashboard Development
+* DAX Measures
+* Data Visualization
+* Healthcare Analytics
 
 ## 👨‍💻 Author
 
-**Gokul J**
+Gokul J
 
 Aspiring Data Analyst
 
-### Skills
-- Power BI
-- Excel
-- SQL
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-
-This is clean, professional, and suitable for uploading your `.pbix` project to GitHub.
+SQL | Power BI | Python | Pandas | NumPy | Matplotlib
