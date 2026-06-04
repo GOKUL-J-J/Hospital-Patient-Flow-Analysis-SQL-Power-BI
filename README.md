@@ -46,15 +46,22 @@ Contains information about available doctors across hospital departments.
 
 ### Dashboard Overview
 
-![Dashboard Overview](dashboard_overview.png)
+[Dashboard Overview](dashboard_overview.png)
 
 ### Data Model
 
-![Data Model](data_model.png)
+[Data Model](data_model.png)
 
 ### DAX Measures
 
-![DAX Measures](dax_measures.png)
+[DAX Measures]
+    ├── avg_length_of_stay.png
+    ├── bed_occupancy_rate.png
+    ├── doctor_utilization.png
+    ├── patient_count.png
+    ├── admission_rate.png
+    ├── discharge_rate.png
+    └── workload_analysis.png
 
 ## Key Insights
 
