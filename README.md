@@ -54,7 +54,13 @@ Contains information about available doctors across hospital departments.
 
 ### DAX Measures
 
-![DAX Measures](avg_length_of_stay.png,bed_occupancy_rate.png,doctor_utilization.png,patient_count.png,test_patient.png,dept_capacity.png,workload_analysis.png)
+![Average Length of Stay](avg_length_of_stay.png)
+![Bed Occupancy Rate](bed_occupancy_rate.png)
+![Doctor Utilization](doctor_utilization.png)
+![Patient Count](patient_count.png)
+![Test Patient](test_patient.png)
+![Department Capacity](dept_capacity.png)
+![Workload Analysis](workload_analysis.png)
 
 ## Key Insights
 
